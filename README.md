@@ -1,5 +1,3 @@
-# Pool-Water-Quality-K-NN
-Created a machine learning model to predict pool water quality based on factors like pH, chlorine content, temperature, and turbidity. Implemented a k-Nearest Neighbors (k-NN) algorithm with scikit-learn for classification. 
 # Pool Water Quality Prediction using K-nearest Neighbor
 
 This project uses the K-nearest Neighbor classifier to predict the quality of pool water based on attributes such as pH level, chlorine content, water temperature, turbidity, and then classifies them as good or bad quality.
